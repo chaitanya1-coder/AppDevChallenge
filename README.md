@@ -16,7 +16,7 @@ This project proposes a “Styava.dev Developer Community App” (Prototype) so 
 
 # Sample Functionality & Concepts used:
 The App has a very simple and interactive interface which helps the students select the upcoming event. 
-## Following are few android concepts used to achieve the functionalities in app :
+## Following are few android concepts used to achieve the functionalities in app:
 ## Constraint Layout : 
 Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students to register or sign in without providing any detailed instructions pages. Apps also use App Navigation to switch between different screens.
